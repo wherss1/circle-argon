@@ -1,0 +1,10 @@
+config global
+	option primary '#6366f1'
+	option dark_primary '#4f46e5'
+	option blur '0'
+	option blur_dark '0'
+	option transparency '0.3'
+	option transparency_dark '0.3'
+	option mode 'dark'
+	option online_wallpaper 'bing'
+
